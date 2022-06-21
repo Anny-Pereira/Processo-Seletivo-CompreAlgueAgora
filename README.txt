@@ -1,0 +1,1 @@
+	E-Players é uma plataforma de jogos construída em React JS de maneira componentizada. Para visualizar o projeto é preciso abri-lo no Visual Studio Code e iniciar um terminal ou abrir com Prompt de Comando (CMD) e inserir o comando 'npm start'.
